@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-'''
+```
 
 HOME PAGE
 
@@ -85,7 +85,7 @@ THANK YOU
   <div style="position: absolute; top: 752px; left: 5px; color: #000000;">TO CONTACT US: saveetha.ac@gmail.com</div>
 </div>
 
-'''
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot 2025-05-19 133009.png>)
